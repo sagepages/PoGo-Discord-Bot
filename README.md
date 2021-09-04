@@ -5,15 +5,22 @@ This repository is for a Pokemon Go Discord bot that takes a users pokemon and I
 # Using this repository
 
 To use this repository:
-    - You can use the `git clone` command to clone to local machine
-    - [Create](https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications) a discord bot and authenticate it on your server
-    - In `config.json` replace `INSERT_BOT_TOKEN` with your personal bot token
+     
+	You can use the `git clone` command to clone to local machine
+     	
+	[Create](https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications) a discord bot and authenticate it on your server
+     	
+	In `config.json` replace `INSERT_BOT_TOKEN` with your personal bot token
     
 # To run    
  
- Before running the bot you need to open your terminal of choice and run this command:   ``` pip install -r requirements.txt ```
+ Before running the bot you need to open your terminal of choice and run this command:
 
- Then you can run ``` python Bot.py``` to start the bot
+	``` pip install -r requirements.txt ```
+
+ Then you can run:
+
+	 ``` python Bot.py``` to start the bot
 
 # Built with
 
