@@ -20,7 +20,7 @@ Before running the bot you need to open your terminal of choice and run this com
 
 Then you can run:
 
-``` python Bot.py``` to start the bot
+``` python Bot.py```
 
 # Built with
 
